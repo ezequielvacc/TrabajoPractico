@@ -141,6 +141,7 @@ html{
     flex-wrap: wrap;
 }
 .card {
+  background-color: #023670cb;
     width: 300px;
     border: 1px solid #ccc;
     border-radius: 4px;
@@ -189,5 +190,29 @@ html{
   }
   .btn:hover{
     transform: scale(1.1);
+  }
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+
+  }
+  
+  .social-media ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .social-media ul li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  .social-media ul li a {
+    color: #fff;
+    text-decoration: none;
   }
  
