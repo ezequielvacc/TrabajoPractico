@@ -1,5 +1,5 @@
 body {
-    background-image: url(/TrabajoPractico/img/tablero-circuitos-tecnologia-abstracta_1035-14043.avif);
+    background-image: url(/TrabajoPractico/img/circuitos-fondo-digital-degradado-azul-rojo_23-2148821701.avif);
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
@@ -32,7 +32,7 @@ html{
   }
 
   .nave{
-    background-color: #1e777738;
+    background-color: #000000;
   }
   .menu{
     display: flex;
